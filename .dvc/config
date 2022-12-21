@@ -1,0 +1,4 @@
+[core]
+    remote = ssh-storage
+['remote "ssh-storage"']
+    url = ssh://dvc@10.0.3.15/opt/datasets
